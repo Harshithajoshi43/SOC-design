@@ -1,1 +1,3 @@
 # SOC-design
+## Harshitha 
+### Joshi
